@@ -26,3 +26,4 @@ GND  -> GND
 GND  -> GND
 -------------------------------
 DHT11 -> PB10         DHT11 data pin
+https://youtu.be/i0dWVpEdowg
